@@ -52,8 +52,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Material UI-282C34?logo=mui&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=5A29E4" alt="Axios logo" title="Axios" height="25" />
-&nbsp;
 <br>
 <br>
 
