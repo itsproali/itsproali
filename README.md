@@ -95,12 +95,16 @@
 
 ## 🔥 GitHub Stats
 
-<div style="display: flex; align-items: center; gap: 30px; justify-between">
-  <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsproali&show_icons=true&theme=transparent" alt="" /> <br>
-    <img src="https://streak-stats.demolab.com?user=itsproali&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsproali&layout=donut-vertical&theme=transparent" alt="" />
-  </div>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">  
+    <img src="https://github-readme-stats.vercel.app/api?username=itsproali&show_icons=true&theme=transparent&border_color=454545" alt="" />
+    <img src="https://streak-stats.demolab.com?user=itsproali&theme=transparent&border=454545&date_format=j%20M%5B%20Y%5D" alt="" style="margin-left: 30px;" />
+</div>
+
+<br>
+<br>
+
+## 📊 Language Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsproali&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
 </div>
