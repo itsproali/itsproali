@@ -93,7 +93,14 @@
 
 </p><br>
 
-## 🔥 Streak Stats
+## 🔥 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsproali&theme=react&show_icons=true" alt="itsproali"  /></p>
-<br><br>
+<div style="display: flex; align-items: center; gap: 30px; justify-between">
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsproali&show_icons=true&theme=transparent" alt="" /> <br>
+    <img src="https://streak-stats.demolab.com?user=itsproali&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsproali&layout=donut-vertical&theme=transparent" alt="" />
+  </div>
+</div>
