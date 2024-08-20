@@ -17,7 +17,7 @@
 - 🚀 My next mission is to become a Senior Software Engineer.
 - 💥 I would love to build some Giant Website.
 - 📫 I am also a student of Computer Science & Technology.
-- 🌐 My portfolio: [Portfolio](https://itsproali.me/)
+- 🌐 My portfolio: [Portfolio](https://itsproali.vercel.app/)
 - 📝 Get Details about me: [Resume](https://drive.google.com/file/d/1qVQ1OLO-5RxHy1rwbe5Ib9igCTfeO99f/view?usp=sharing)
 - 💬 Keep me in your touch : itsproali@gmail.com
 
@@ -26,7 +26,7 @@
 ## 👉 Connect with me:
 
 <p align="left">
-    <a style="margin: 0 10px" href="https://itsproali.me/" target="blank" title="Portfolio"><img align="center" src="https://i.ibb.co/c6rZ6wN/bg-shape.png" alt="portfolio" height="30" width="30" /></a>
+    <a style="margin: 0 10px" href="https://itsproali.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://i.ibb.co/c6rZ6wN/bg-shape.png" alt="portfolio" height="30" width="30" /></a>
     <a style="margin: 0 10px" href="https://linkedin.com/in/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
     <a style="margin: 0 10px" href="https://fb.com/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
