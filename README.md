@@ -1,17 +1,16 @@
-<!-- <h1 align="center">Hi 👋, I'm Mohammad Ali</h1> -->
 
-<img src="./banner.png" alt="banner" /><br>
+![banner](./banner_2.png)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" /> 
-<img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" /> 
+<img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" />
+<img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" />
 </p><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Full+Stack+Developer;A+MERN+Stack+Developer;A+React+JS+Developer;)](https://git.io/typing-svg)
 
-## 👓 Here's some fun facts about me:
+## 👓 Here's some fun facts about me
 
-- ✨ I am a Full Stack Developer (MERN) with having 2+ years of experience.
+- ✨ I am a Full Stack Developer (MERN) with having 3+ years of experience.
 - ⚡️ I am capable to solve working problems.
 - 💫 Passionate about learning & development to reach the target.
 - 🚀 My next mission is to become a Senior Software Engineer.
@@ -19,21 +18,21 @@
 - 📫 I am also a student of Computer Science & Technology.
 - 🌐 My portfolio: [Portfolio](https://itsproali.vercel.app/)
 - 📝 Get Details about me: [Resume](https://drive.google.com/file/d/1qVQ1OLO-5RxHy1rwbe5Ib9igCTfeO99f/view?usp=sharing)
-- 💬 Keep me in your touch : itsproali@gmail.com
+- 💬 Keep me in your touch : <contact@mdali.dev>
 
-  <br><br>
+<br>
 
-## 👉 Connect with me:
+## 👉 Connect with me
 
 <p align="left">
-    <a style="margin: 0 10px" href="https://itsproali.vercel.app/" target="blank" title="Portfolio"><img align="center" src="https://i.ibb.co/c6rZ6wN/bg-shape.png" alt="portfolio" height="30" width="30" /></a>
+    <a style="margin: 0 10px" href="https://mdali.dev/" target="blank" title="Portfolio"><img align="center" src="./banner_2.png" alt="portfolio" height="30" width="30" /></a>
     <a style="margin: 0 10px" href="https://linkedin.com/in/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
     <a href="https://twitter.com/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
     <a style="margin: 0 10px" href="https://fb.com/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
     <a style="margin: 0 10px" href="https://instagram.com/itsproali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p><br>
 
-## ✨ Technologies & Tools:
+## ✨ Technologies & Tools
 
 <p align="left">
 
@@ -52,7 +51,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Material UI-282C34?logo=mui&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="25" />
 &nbsp;
-<br>
+
 <br>
 
 <!-- Back End -->
@@ -71,16 +70,16 @@
 <img src="https://img.shields.io/badge/Stripe-282C34?logo=stripe&logoColor=008CDD" alt="Stripe logo" title="Stripe" height="25" />
 
 <br>
-<br>
+
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-282C34?logo=amazon&logoColor=FF9900" alt="Amazon AWS logo" title="Amazon AWS" height="25" />
+<img src="https://img.shields.io/badge/AWS-282C34?logo=aws&logoColor=FF9900" alt="Amazon AWS logo" title="Amazon AWS" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Digital Ocean-282C34?logo=digitalocean&logoColor=0080FF" alt="Digital Ocean logo" title="Digital Ocean" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/VS Code-282C34?logo=visual studio code&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" />
+<img src="https://img.shields.io/badge/Cursor-282C34?logo=Cursor&logoColor=ffffff" alt="Cursor logo" title="Cursor" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />
 &nbsp;
