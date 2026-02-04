@@ -16,7 +16,7 @@
 - 🚀 My next mission is to become a Senior Software Engineer.
 - 💥 I would love to build some Giant Website.
 - 📫 I am also a student of Computer Science & Technology.
-- 🌐 My portfolio: [Portfolio](https://itsproali.vercel.app/)
+- 🌐 My portfolio: [Portfolio](https://mdali.dev/)
 - 📝 Get Details about me: [Resume](https://drive.google.com/file/d/1qVQ1OLO-5RxHy1rwbe5Ib9igCTfeO99f/view?usp=sharing)
 - 💬 Keep me in your touch : <contact@mdali.dev>
 
